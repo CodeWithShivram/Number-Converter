@@ -1,6 +1,6 @@
 # Number Converter Website
 
-![Website Preview](<URL_TO_WEBSITE_PREVIEW_IMAGE>)
+![Website Preview](https://github.com/CodeWithShivram/Number-Converter/blob/main/image.png)
 
 This is a simple web application for converting numbers between different number systems, including decimal, binary, and octal. You can access the live website [here](https://easynumberconverter.netlify.app/).
 
@@ -29,4 +29,3 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone <REPOSITORY_URL>
-![Alt text](image.png)
